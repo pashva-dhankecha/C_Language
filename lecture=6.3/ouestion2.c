@@ -1,4 +1,5 @@
 #include<stdio.h>
+//wap c program find a factorial number
 main()
 {
 	
